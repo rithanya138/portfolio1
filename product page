@@ -116,7 +116,7 @@
             <button class="btn">Select</button>
           </div>
           <div class="product" id="valve">
-            <div class="level">Valve Trombone</div>
+            <div class="level">Valve Trombone</div
             <h2>$1200</h2>
             <ol>
               <li>Plays similar to a Trumpet</li>
